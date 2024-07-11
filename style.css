@@ -440,3 +440,111 @@ position: absolute;
 right: 300px;
 top: 2050px;
 }
+/* 
+My Inspiration part starts here  */
+.My-Inspiration{
+    width: 1140px;
+height: 800px;
+/* border: 2px solid red; */
+margin: 0 auto;
+margin-top: 2px;
+
+}
+.My-Inspiration h1{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 20px;
+
+
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+}
+.My-Inspiration p{
+    position: absolute;
+    width: 852px;
+    height: 52px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+    left: 350px;
+
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+}
+.Video-content{
+    position: absolute;
+width: 1000px;
+height: 614px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 32px;
+margin-top: 60px;
+right: 200px;
+}
+
+/* my-current target starts here  */
+
+.my-current-target{
+    width: 1140px;
+    height: 1395px;
+    border: 2px solid red;
+    margin: 0 auto;
+    margin-top: 2px;
+}
+
+.my-current-target h1{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 20px;
+
+
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.my-current-target p {
+    position: absolute;
+    width: 852px;
+    height: 52px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+    left: 350px;
+
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+
+}
